@@ -11,15 +11,15 @@
   "to": "hasta",
   "or": "o",
   "price": "precio",
-  "fee": "coste",
+  "fee": "comisión",
   "try-again": "intentalo otra vez",
   "refresh": "actualizar",
-  "finish": "acabar",
+  "finish": "terminar",
   "price-each": "{{price}} cada uno",
   "exchange-rate": "<0 /> / <1>{{sourceCurrency}}</1>",
   "remaining": "restante",
   "not-available-short": "no disponible entrada en corto",
-  "set-price": "fijar un precio",
+  "set-price": "fijar precio",
   "market": "mercado",
   "market-price": "precio de mercado",
   "exchange": "cambio",
@@ -91,7 +91,7 @@
       "plus-more": "+{{count}} mas"
     },
     "create-modal": {
-      "credentials-step": "Credenciales de ususario",
+      "credentials-step": "Credenciales de usuario",
       "whitelist-step": "Direcciones en la lista blanca",
       "name-step": "Da nombre a tu llave",
       "last-step": "copia de seguridad del codigo secreto",
@@ -206,21 +206,21 @@
         "clear-all": "Eliminar todo"
       },
       "transfers": {
-        "initializing": "Initializing",
-        "initialized": "Transfer initialized",
+        "initializing": "Inicializando",
+        "initialized": "Transferencia inicianizada",
         "tooltip": "You still have a transfer initializing. If you close Nash or sign out, it will be paused until you sign in again."
       },
       "general-menu": {
-        "settings": "My profile",
+        "settings": "Mi Perfil",
         "support": "Support",
         "theme": {
           "light": "Light",
           "dark": "Dark"
         },
         "auth": {
-          "sign-out": "Sign out",
-          "sign-in": "Sign in",
-          "sign-in-create-account": "<1>Create an account</1> or <0>sign in</0>"
+          "sign-out": "Cerrar Sesión",
+          "sign-in": "Iniciar Sesión",
+          "sign-in-create-account": "<1>Crear una cuenta</1> or <0>Iniciar Sesión</0>"
         },
         "tabs": {
           "general": "General"
